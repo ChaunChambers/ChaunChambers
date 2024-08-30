@@ -5,12 +5,15 @@
 
 - 📫 How to reach me **chaunchambers@gmail.com**
 
-- 👨‍💻 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Superbase.
-**Instructions**
+- 👨‍💻 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Supabase.
+
+**Instructions:**
     -  Clone the repository at https://github.com/ChaunChambers/backend-project.
     -  Install all the dependencies using npm install.
     -  Seed the local database using npm run-seed.
     -  Run tests using npm run test.
+    -  Create two .env files. .env.test containing the variable PGDATABASE which equals nc_news_test, and .env.development           containing the variable PGDATABASE which equals nc_news.
+    Minimum version of Node.js is ^12.20. Minimum version of Postgres is ^1.4. 0.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
