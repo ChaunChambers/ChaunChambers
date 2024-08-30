@@ -5,7 +5,12 @@
 
 - 📫 How to reach me **chaunchambers@gmail.com**
 
-- 👨‍💻 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Superbase. 
+- 👨‍💻 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Superbase.
+** Instructions **
+    -  Clone the repository at https://github.com/ChaunChambers/backend-project.
+    -  Install all the dependencies using npm install.
+    -  Seed the local database using npm run-seed.
+    -  Run tests using npm run test.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
