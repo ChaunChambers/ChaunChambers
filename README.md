@@ -11,8 +11,7 @@
     -  Seed the local database using npm run-seed.
     -  Run tests using npm run test.
     -  Create two .env files. .env.test containing the variable PGDATABASE which equals nc_news_test, and .env.development           containing the variable PGDATABASE which equals nc_news.
-    
-    Minimum version of Node.js is ^12.20. Minimum version of Postgres is ^1.4. 0.
+    -  Minimum version of Node.js is ^12.20. Minimum version of Postgres is ^1.4. 0.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
