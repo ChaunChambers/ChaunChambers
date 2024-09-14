@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaun Chambers</h1>
-<h3 align="center">A passionate web developer from UK</h3>
+<h3 align="center">A passionate web designer from UK</h3>
 
 - 👨‍💻 My website [www.chaunchambers.com](www.chaunchambers.com)
 
