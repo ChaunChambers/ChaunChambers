@@ -4,14 +4,22 @@
 - 👨‍💻 My website [www.chaunchambers.com](www.chaunchambers.com)
 
 - 📫 How to reach me **chaunchambers@gmail.com**
+  
+- ☄️ [My Frontend Project](https://peppy-cobbler-e975fe.netlify.app) - A CRUD application from a Frontend perspective which utilises the API from the backend project. This application uses React. This project is about Northcoders News - a social news aggregation, web content rating and discussion website. Northcoders News has articles which are divided into topics, and each article has user-curated ratings from upvotes and downvotes using the API. Users can also add comments about an article.
+    -  Clone the repository at https://github.com/ChaunChambers/nc-news.
+    -  Install all the dependencies using npm install.
+    -  Minimum version of Node.js is ^12.20.
+    -  This portfolio project was created as part of a Digital Skills Bootcamp in Software Engineering provided by [Northcoders](https://northcoders.com/)
 
-- 👨‍💻 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Supabase. **Instructions:**
+- 💥 [My Backend Project](https://backend-project-ag9c.onrender.com/api) - An API for the purpose of accessing application data programatically. The intention is to mimic the building of a real world backend service (such as Reddit) which provides information to the front end architecture. The database has been created using PostgreSQL, and I interact with the database using node-postgres. The API is hosted online using Render and an online location for the database is with Supabase. **Instructions:**
     -  Clone the repository at https://github.com/ChaunChambers/backend-project.
     -  Install all the dependencies using npm install.
     -  Seed the local database using npm run-seed.
     -  Run tests using npm run test.
     -  Create two .env files. .env.test containing the variable PGDATABASE which equals nc_news_test, and .env.development           containing the variable PGDATABASE which equals nc_news.
     -  Minimum version of Node.js is ^12.20. Minimum version of Postgres is ^1.4. 0.
+    -  This portfolio project was created as part of a Digital Skills Bootcamp in Software Engineering provided by [Northcoders](https://northcoders.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
