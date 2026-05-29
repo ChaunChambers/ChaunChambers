@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaun Chambers</h1>
-<h3 align="center">A passionate web designer from UK</h3>
+<h3 align="center">A passionate web designer and Qualified Maths Teacher from UK</h3>
 
 - 👨‍💻 My website [www.online-maths-tutor.co.uk](www.online-maths-tutor.co.uk)
 
@@ -23,9 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chaunconscious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaunconscious" height="30" width="40" /></a>
-<a href="https://fb.com/chaunconscious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaunconscious" height="30" width="40" /></a>
-<a href="https://instagram.com/chaunconscious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaunconscious" height="30" width="40" /></a>
+<a href="https://instagram.com/online_maths_tutor_uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Online Maths Tutor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
