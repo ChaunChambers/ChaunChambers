@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chaun Chambers</h1>
+<h1 align="center">Hi 👋, I'm Shaun Chambers</h1>
 <h3 align="center">A passionate web designer from UK</h3>
 
-- 👨‍💻 My website [www.chaunchambers.com](www.chaunchambers.com)
+- 👨‍💻 My website [www.online-maths-tutor.co.uk](www.online-maths-tutor.co.uk)
 
-- 📫 How to reach me **chaunchambers@gmail.com**
+- 📫 How to reach me **shaunchambersmaths@gmail.com**
   
 - ☄️ [My Frontend Project](https://peppy-cobbler-e975fe.netlify.app) - A CRUD application from a Frontend perspective which utilises the API from the backend project. This application uses React. This project is about Northcoders News - a social news aggregation, web content rating and discussion website. Northcoders News has articles which are divided into topics, and each article has user-curated ratings from upvotes and downvotes using the API. Users can also add comments about an article.
     -  Clone the repository at https://github.com/ChaunChambers/nc-news.
